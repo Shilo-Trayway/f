@@ -1,5 +1,5 @@
 <h1 align="center">
-    SHOPCART: Ecommerce Site
+    Shilo: Shilo Store
 </h1>
 
 <h3 align="center">
@@ -9,13 +9,17 @@ Become a seller and add products, monitor sales, and gather customer feedback.
 
 <br>
 
-[Youtube Video](https://youtu.be/i_z0HYk3IuQ?si=S04-IBq7Ny8k0FYC)
+[Youtube Video](https://)
 <br><br>
-[LinkedIn](https://www.linkedin.com/in/yogndr/)
+[LinkedIn](https://)
 
 # About
-
-ShopCart is an ecommerce site developed using the MERN (MongoDB, Express.js, React, Node.js) stack. It offers a user-friendly and efficient shopping experience for customers, while providing sellers with essential tools to manage their products and sales.
+<Body>  
+<div>
+ <title><H1>Shilo Store</H1></title>
+</div>    
+<H3>Shilo Store offers a comprehensive selection of smart security systems, electronics, clothing, and FBA channels. We provide advanced business personalized seller channels for Either Large&Small Business, ensuring a seamless and efficient shopping experience for all our customers.
+</Body>
 
 ## Features
 

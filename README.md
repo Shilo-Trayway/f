@@ -14,12 +14,7 @@ Become a seller and add products, monitor sales, and gather customer feedback.
 [LinkedIn](https://)
 
 # About
-<Body>  
-<div>
- <title><H1>Shilo Store</H1></title>
-</div>    
-<H3>Shilo Store offers a comprehensive selection of smart security systems, electronics, clothing, and FBA channels. We provide advanced business personalized seller channels for Either Large&Small Business, ensuring a seamless and efficient shopping experience for all our customers.
-</Body>
+
 
 ## Features
 
